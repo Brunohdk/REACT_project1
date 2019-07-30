@@ -10,7 +10,7 @@ import Nav from './components/escopo/escopo/Nav'
 import Footer from './components/escopo/escopo/Footer'
 
 export default props =>
-    <HashRouter>
+    <HashRouter basename={process.env.PUBLIC_URL}>
     <div className="app">
         <Logo />
         <Nav />

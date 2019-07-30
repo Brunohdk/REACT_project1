@@ -7,7 +7,7 @@ import './escopo/escopo/Contas.css'
 const headerProps = {
     icon: 'fa fa-dollar',
     title: ' Contas',
-    subtitle: 'CHORA NO MEU CARTAO DE CREDITO BEBEEEEEE'
+    subtitle: 'Contas, contas e mais contas'
 }
 
 const baseUrl = 'http://localhost:3001/contas'

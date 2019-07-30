@@ -6,7 +6,7 @@ import Table from 'react-bootstrap/Table'
 const headerProps = {
     icon: 'users',
     title: ' Usuários',
-    subtitle: 'Cadastro de usuários: Incluir, Listar e balbalbal'
+    subtitle: 'Cadastro de usuários completo'
 }
 
 const baseUrl = 'http://localhost:3001/users'

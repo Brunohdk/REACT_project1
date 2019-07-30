@@ -7,7 +7,7 @@ const baseUrl = 'http://localhost:3001/todos'
 const headerProps = {
     icon: 'exclamation-circle',
     title: ' NÃO ESQUECER',
-    subtitle: 'zé buceta'
+    subtitle: 'BRUNO,NÃO,ESQUECE'
 }
 
 const initialState = {
