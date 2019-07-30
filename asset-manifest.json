@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Brunohdk/React_1project.git/static/css/main.e9569580.chunk.css",
-    "main.js": "/Brunohdk/React_1project.git/static/js/main.41186145.chunk.js",
-    "main.js.map": "/Brunohdk/React_1project.git/static/js/main.41186145.chunk.js.map",
-    "runtime~main.js": "/Brunohdk/React_1project.git/static/js/runtime~main.ec551406.js",
-    "runtime~main.js.map": "/Brunohdk/React_1project.git/static/js/runtime~main.ec551406.js.map",
-    "static/css/2.be48568a.chunk.css": "/Brunohdk/React_1project.git/static/css/2.be48568a.chunk.css",
-    "static/js/2.b9cfa1c7.chunk.js": "/Brunohdk/React_1project.git/static/js/2.b9cfa1c7.chunk.js",
-    "static/js/2.b9cfa1c7.chunk.js.map": "/Brunohdk/React_1project.git/static/js/2.b9cfa1c7.chunk.js.map",
-    "index.html": "/Brunohdk/React_1project.git/index.html",
-    "precache-manifest.68aabf8ebf6607fe1d3ba9fdfd27d5d5.js": "/Brunohdk/React_1project.git/precache-manifest.68aabf8ebf6607fe1d3ba9fdfd27d5d5.js",
-    "service-worker.js": "/Brunohdk/React_1project.git/service-worker.js",
-    "static/css/2.be48568a.chunk.css.map": "/Brunohdk/React_1project.git/static/css/2.be48568a.chunk.css.map",
-    "static/css/main.e9569580.chunk.css.map": "/Brunohdk/React_1project.git/static/css/main.e9569580.chunk.css.map",
-    "static/media/font-awesome.min.css": "/Brunohdk/React_1project.git/static/media/fontawesome-webfont.fee66e71.woff"
+    "main.css": "/React_1project/static/css/main.e9569580.chunk.css",
+    "main.js": "/React_1project/static/js/main.e33ef269.chunk.js",
+    "main.js.map": "/React_1project/static/js/main.e33ef269.chunk.js.map",
+    "runtime~main.js": "/React_1project/static/js/runtime~main.2b5f6bde.js",
+    "runtime~main.js.map": "/React_1project/static/js/runtime~main.2b5f6bde.js.map",
+    "static/css/2.9f89712b.chunk.css": "/React_1project/static/css/2.9f89712b.chunk.css",
+    "static/js/2.b9cfa1c7.chunk.js": "/React_1project/static/js/2.b9cfa1c7.chunk.js",
+    "static/js/2.b9cfa1c7.chunk.js.map": "/React_1project/static/js/2.b9cfa1c7.chunk.js.map",
+    "index.html": "/React_1project/index.html",
+    "precache-manifest.f583b55c4bf725bce6643253ee9bc779.js": "/React_1project/precache-manifest.f583b55c4bf725bce6643253ee9bc779.js",
+    "service-worker.js": "/React_1project/service-worker.js",
+    "static/css/2.9f89712b.chunk.css.map": "/React_1project/static/css/2.9f89712b.chunk.css.map",
+    "static/css/main.e9569580.chunk.css.map": "/React_1project/static/css/main.e9569580.chunk.css.map",
+    "static/media/font-awesome.min.css": "/React_1project/static/media/fontawesome-webfont.fee66e71.woff"
   }
 }
