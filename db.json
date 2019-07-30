@@ -1,0 +1,139 @@
+{
+  "users": [],
+  "todos": [
+    {
+      "content": "PAGAR CONTA DA NET ATÉ 05/08",
+      "id": 1
+    },
+    {
+      "content": "M234,78",
+      "id": 2
+    },
+    {
+      "content": "PAGAR DARF 06/08",
+      "id": 3
+    },
+    {
+      "content": "PAGAR FATURA CARTAO ATÉ 01/08",
+      "id": 4
+    },
+    {
+      "content": "PAGAR MULTA ATÉ 01/08",
+      "id": 5
+    }
+  ],
+  "contas": [
+    {
+      "local": "uber eats",
+      "data": "27/06",
+      "desc": "sorvetes",
+      "price": "14",
+      "id": 1
+    },
+    {
+      "local": "pizza hut",
+      "data": "28/06",
+      "desc": "pizza",
+      "price": "20",
+      "id": 2
+    },
+    {
+      "local": "extra",
+      "data": "30/06",
+      "desc": "nao lembro",
+      "price": "14",
+      "id": 3
+    },
+    {
+      "local": "uber eats",
+      "data": "04/07",
+      "desc": "sorvete",
+      "price": "17",
+      "id": 4
+    },
+    {
+      "local": "magalu",
+      "data": "05/07",
+      "desc": "papel neve",
+      "price": "32",
+      "id": 5
+    },
+    {
+      "local": "mercadão",
+      "data": "07/07",
+      "desc": "compra do mês",
+      "price": "114",
+      "id": 6
+    },
+    {
+      "local": "biqueira",
+      "data": "11/07",
+      "desc": "maconha",
+      "price": "20",
+      "id": 7
+    },
+    {
+      "local": "extra",
+      "data": "13/05",
+      "desc": "nao lembro",
+      "price": "24",
+      "id": 8
+    },
+    {
+      "local": "centro",
+      "data": "13/05",
+      "desc": "besteiras",
+      "price": "25",
+      "id": 9
+    },
+    {
+      "local": "mercadão",
+      "data": "20/05",
+      "desc": "compra do mês",
+      "price": "108",
+      "id": 10
+    },
+    {
+      "local": "biqueira",
+      "data": "23/07",
+      "desc": "maconha",
+      "price": "30",
+      "id": 11
+    },
+    {
+      "local": "COND",
+      "data": "24/07",
+      "desc": "COND",
+      "price": "407",
+      "id": 12
+    },
+    {
+      "local": "LUZ",
+      "data": "24/07",
+      "desc": "LUZ",
+      "price": "77",
+      "id": 13
+    },
+    {
+      "local": "extra",
+      "data": "26/07",
+      "desc": "omelete",
+      "price": "18",
+      "id": 14
+    },
+    {
+      "local": "pizza hut ",
+      "data": "26/07",
+      "desc": "promotion",
+      "price": "28",
+      "id": 15
+    },
+    {
+      "local": "EXTRA",
+      "data": "27/07",
+      "desc": "cerveja",
+      "price": "24",
+      "id": 16
+    }
+  ]
+}
